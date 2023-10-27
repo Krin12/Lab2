@@ -1,0 +1,4 @@
+/home/taemin/Exam2/CMakeFiles/rebuild_cache.dir
+/home/taemin/Exam2/CMakeFiles/edit_cache.dir
+/home/taemin/Exam2/CMakeFiles/CalcApp.dir
+/home/taemin/Exam2/CMakeFiles/CalcLib.dir
